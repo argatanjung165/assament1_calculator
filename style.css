@@ -1,0 +1,30 @@
+html{
+    font-family: arial;
+}
+.display{
+    background-color:rgb(168, 168, 168)  ;
+    padding:15px;
+    width:250px;
+    text-align: right;
+    font-size: 20px;
+}
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: rgb(168, 168, 168) ;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(139, 139, 139) ;
+}
+button:focus{
+    outline: none;
+}
+button:active{
+    background-color:rgb(109, 109, 109);
+
+}
+
